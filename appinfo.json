@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "acr",
+    "enableMultiJS": false,
+    "longName": "Maple Leafs",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble.png",
+                "menuIcon": true,
+                "name": "BKNG",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/ProximaNova-Regular.ttf",
+                "name": "PROXIMA_REGULAR_16",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/ProximaNova-Bold.ttf",
+                "name": "PROXIMA_BOLD_30",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Maple Leafs",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "21e6d4fa-9254-4e50-894e-24330069f649",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
